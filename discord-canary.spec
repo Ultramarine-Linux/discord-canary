@@ -32,5 +32,8 @@ install discord.png %{buildroot}%{_datadir}/pixmaps/discord-canary.png
 %{_datadir}/pixmaps/discord-canary.png
 
 %changelog
+* Tue Feb 22 2022 Ultramarine Release Tracking Service - 0.0.133-2
+- Mass rebuild for release um36
+
 * Sat Nov 20 2021 Cappy Ishihara <cappy@cappuchino.xyz>
 - Initial release
