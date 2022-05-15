@@ -2,4 +2,4 @@
 *.src.rpm
 *.log
 build/
-.tar.*
+*.tar.*
