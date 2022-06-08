@@ -1,0 +1,6 @@
+[discord-canary]
+spec = "discord-canary.spec"
+build_script = ""
+build_method = "mock"
+owner = "windowsboy111"
+git_repo = "https://github.com/ultramarine-linux/pkg-discord-canary"
