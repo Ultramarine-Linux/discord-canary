@@ -1,7 +1,7 @@
 %undefine _disable_source_fetch
 
 Name:           discord-canary
-Version:        0.0.136
+Version:        0.0.137
 Release:        %autorelease
 Summary:        Free Voice and Text Chat for Gamers.
 URL:            discord.com
